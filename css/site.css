@@ -88,3 +88,18 @@
 .navbar {
   min-height: 85px !important;
 }
+.address .section-heading{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.address p {
+  margin-bottom: 0;
+}
+
+.address .company-name {
+  color: #294F3D;
+  font-weight: 700;
+  font-size: 34px;
+  text-transform: uppercase;
+}
