@@ -84,9 +84,11 @@
   float: right;
   font-style: italic;
   color: #943A45;
+  font-weight: 900;
+  font-size: 35px;
 }
 .navbar {
-  min-height: 85px !important;
+  min-height: 110px !important;
 }
 .address .section-heading{
   margin-bottom: 0;
