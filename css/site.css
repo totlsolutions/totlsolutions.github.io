@@ -79,13 +79,12 @@
   transform: translateY(3px);
 }
 .caption {
-  transform: translateY(55px) translateX(-65px);
   display: block;
-  float: right;
   font-style: italic;
-  color: #943A45;
+  color: #E43B37;
   font-weight: 900;
-  font-size: 35px;
+  font-size: 25px;
+  transform: translateY(-24px) translateX(82px);
 }
 .navbar {
   min-height: 110px !important;
@@ -104,4 +103,12 @@
   font-weight: 700;
   font-size: 34px;
   text-transform: uppercase;
+}
+.logo {
+  width: 68px;
+  height: auto;
+  background: white;
+  float: left;
+  margin-right: 10px;
+  transform: translateY(-7px);
 }
